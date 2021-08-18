@@ -1,10 +1,7 @@
-* linguist-vendored
-*.cpp linguist-vendored=false
-
 *.csharp linguist-detectable=true  
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-vendored=true  
 *.xml linguist-detectable=false 
-*.python linguist-detectable=true
+*.py linguist-detectable=true
 *.txt linguist-detectable=true
